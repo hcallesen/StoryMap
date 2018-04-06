@@ -1,0 +1,14 @@
+ @font-face{
+    font-family:"dinglesw";
+    src: url('dingleSW.ttf');
+}
+
+h3{
+    font-size: 200%;
+    letter-spacing: 5px;
+}
+
+h1{
+    font-size: 260%;
+    letter-spacing: 1px;
+}
